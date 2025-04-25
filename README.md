@@ -4,6 +4,16 @@ This project showcases a dynamic Power BI dashboard analyzing detailed match-lev
 ## 🔍 Overview:
 Built using a comprehensive dataset with over 70 columns of match data, this dashboard reveals insights into team performance, attacking and defensive patterns, possession control, disciplinary records, and more. It’s part of my business analyst portfolio, created to highlight my skills in data modeling, DAX, and impactful visual storytelling.
 
+## Snapshots of the Project:
+
+Snapshot of the Overview Dashboard (Page 1):
+
+Snapshot of the Team Statistics Dashboard (Page 2):
+
+Snapshot of the Match Statistics Dashboard (Page 3):
+
+Snapshot of the drop down with each match played in the world cup to analyze the match Statistics (Page 3):
+
 ## 📊 Key Features:
 4 KPI Cards: Total Goals, Total Matches, Total Yellow Cards, Total Red Cards
 
