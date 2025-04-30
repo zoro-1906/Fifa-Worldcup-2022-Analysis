@@ -58,8 +58,7 @@ Custom themes and layout for visual consistency
 
 ## Datasets 
 
-Base Dataset 
-https://github.com/zoro-1906/Fifa-Worldcup-2022-Analysis/blob/main/Fifa%20Dataset.csv
+Base Dataset - https://github.com/zoro-1906/Fifa-Worldcup-2022-Analysis/blob/main/Fifa%20Dataset.csv
 
 Players Dataset - https://github.com/zoro-1906/Fifa-Worldcup-2022-Analysis/blob/main/Players_Data.xlsx
 
